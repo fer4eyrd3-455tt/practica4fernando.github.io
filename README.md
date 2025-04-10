@@ -79,21 +79,21 @@ Fernando Martinez Onofre
             <img src="https://via.placeholder.com/200x250" alt="Perfume 1">
             <h3>Rosa Encantada</h3>
             <p>Una fragancia floral y delicada para ocasiones especiales.</p>
-            <p class="precio">$49.99</p>
+            <p class="precio">$49.99MX</p>
             <button>Comprar</button>
         </div>
         <div class="producto">
             <img src="https://via.placeholder.com/200x250" alt="Perfume 2">
             <h3>Brisa Nocturna</h3>
             <p>Aromas frescos y elegantes para el día y la noche.</p>
-            <p class="precio">$59.99</p>
+            <p class="precio">$59.99MX</p>
             <button>Comprar</button>
         </div>
         <div class="producto">
             <img src="https://via.placeholder.com/200x250" alt="Perfume 3">
             <h3>Amor Secreto</h3>
             <p>Notas dulces con un toque misterioso.</p>
-            <p class="precio">$54.99</p>
+            <p class="precio">$54.99MX</p>
             <button>Comprar</button>
         </div>
     </section>
